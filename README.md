@@ -9,7 +9,7 @@ Cristian Román |646564
 Javier Beltran Jorba | 532581
 Marcos Canales Mayo | 467716 
 Jorge Cáncer Gil | 646122 
-Iñigo Alonso Ruiz | 665959 
+Iñigo Alonso Ruiz | 665959 | [repo](https://github.com/Shathe/Laboratory-6-microservices)
 Ismael Rodríguez Hernández | 587429 | [repo](https://github.com/ismaro3/Laboratory-6-microservices)
 Jorge Martinez Lascorz | 571735 
 David Nicuesa Aranda | 653224 
@@ -22,7 +22,7 @@ Adrian Susinos Moreno | 650220
 Santiago Gil Begué | 683482 | [repo](https://github.com/Santi-7/Laboratory-6-microservices)
 Carlos Escuín Blasco | 545003 
 Alberto Revel | 628704
-Raul Piracés Alastuey | 490790 
+Raul Piracés Alastuey | 490790 | [repo](https://github.com/piraces/Laboratory-6-microservices)
 Adrian Moreno Jimeno | 631537 
 Alberto Sabater Bailón | 546297 
 Agustin Navarro Torres | 587570 

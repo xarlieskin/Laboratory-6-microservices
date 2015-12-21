@@ -3,7 +3,7 @@ Please, go to the [Wiki](https://github.com/UNIZAR-30246-WebEngineering/Laborato
 
 User name | NIA |Repository|Proposal|Score
 ----------|-----|----------|--------|-----
-UNIZAR-30246-WebEngineering |30246 | [repo](https://github.com/UNIZAR-30246-WebEngineering/Laboratory-5-microservices) 
+UNIZAR-30246-WebEngineering |30246 | [repo](https://github.com/UNIZAR-30246-WebEngineering/Laboratory-6-microservices) 
 AlejandroDiesteCortes | 541892 | [repo](https://github.com/AlejandroDiesteCortes/Laboratory-6-microservices) 
 Cristian Román |646564 
 Javier Beltran Jorba | 532581

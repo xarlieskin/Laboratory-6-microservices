@@ -25,7 +25,7 @@ Alberto Revel | 628704
 Raul Piracés Alastuey | 490790 | [repo](https://github.com/piraces/Laboratory-6-microservices)
 Adrian Moreno Jimeno | 631537
 Alberto Sabater Bailón | 546297
-Agustin Navarro Torres | 587570
+Agustin Navarro Torres | 587570 | [repo](https://github.com/SirBargus/Laboratory-6-microservices) | Transform into node.js and eureka
 Alejandro Solanas Bonilla | 647647
 Christian García Artero | 597578
 Luis Jesus Pellicer | 520256

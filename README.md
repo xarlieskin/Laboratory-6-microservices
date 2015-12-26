@@ -15,7 +15,7 @@ Jorge Martinez Lascorz | 571735 | [repo](https://github.com/JorgeCoke/Laboratory
 David Nicuesa Aranda | 653224
 Eduardo Ibanez | 528074
 Sergio Soro Miranda | 671250
-Alberto Álvarez Aldea | 681687
+Alberto Álvarez Aldea | 681687 | [repo](https://github.com/albert17/Laboratory-6-microservices)
 Oscar Clemente Pedrico | 530162
 Iñigo Gascón Royo | 685215
 Adrian Susinos Moreno | 650220
@@ -32,7 +32,7 @@ Luis Jesus Pellicer | 520256
 Marcos Ruiz García | 648045
 Óscar Meler Murillo | 608919
 Aron Collados Torres | 626558
-Diego Sánchez Castillo | 628279
+Diego Sánchez Castillo | 628279 | [repo] (https://github.com/diegozgz92/Laboratory-6-microservices)
 Rubén Gabás Celimendiz | 590738
 Daniel Forcén Esteban | 558471 | [repo](https://github.com/dforcen/Laboratory-6-microservices)
 Ramón José Arellano Bitrián | 594040
